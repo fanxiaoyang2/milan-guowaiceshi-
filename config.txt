@@ -1,21 +1,21 @@
 {
 # 公众号配置
 # 公众号appId
-"app_id": "wxc52b70d7874365e9",
+"app_id": "wxffcc3c68e69aed71",
 # 公众号appSecret
-"app_secret":"97a84528d68ea0d6959eb806a2a52894",
+"app_secret":"09e8443986d07c3e2aae1578b182baca",
 # 模板消息id
-"template_id": "8GJ2UVDCQhMqcAGX29nIedxEWIQLFoVGKoyHNUfPMI4",
+"template_id": "Zhd4AlI1hRI040B9G3GC96HrIA3U4d_uv9O5Z_tmo-0",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["oG6CO6bYsD-j-K6awlPUNZHMciQo","oG6CO6XvrU_mqmJgspI0UahF6sbI"],
+"user": ["ol7cI6qKEcvDdAYzqvXbZnPvzBDs"],
 # 信息配置
 # 和风天气apikey
 "weather_key":"6f1c029d072645bbacf1b4a27292585a",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
 "region": "米兰",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
-"birthday1": {"name": "辰辰", "birthday": "2001-11-27"},
-"birthday2": {"name": "左左", "birthday": "1988-04-29"},
+"birthday1": {"name": "何总", "birthday": "1999-07-01"},
+"birthday2": {"name": "张秘书", "birthday": "1999-08-14"},
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2021-06-06",
 
